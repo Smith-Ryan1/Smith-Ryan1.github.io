@@ -1,1 +1,2 @@
-A lengthy exhaustion of information being taught to me through Hocking Colleges Cybersecurity program.
+***About Me***
+I am an appalachian hill person, born and grown, but I am also a person that loves the idea of living in the city, working with technology as well. Numbers have always been what I strive on, if there is not a precise answer for things, I will likely grow frustrated with whatever it is that I am trying to do, but my stubborness will keep me going until the task has been accomplished. 
