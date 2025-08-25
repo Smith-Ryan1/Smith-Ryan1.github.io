@@ -1,0 +1,10 @@
+Servers in a network are devices that have software capable of transmitting information to other hosts. e.g. email services
+Clients are devices that have software that allow them to request and display information e.g. web browsers like chrome.
+Hosts can be clients, servers, or both depending on the software installed on them. 
+
+A clients job is to request and then display that information to you provided by the server that can transmit the information.
+
+Infrastructure devices are what make up a network, intermediary devices such as routers, switches, or end devices such as laptops, phones, and tablets, all make up a network of systems. The net result of the network is to retrieve, share, and display information. 
+
+Connection to an ISP, internet service provider, can be done in many different ways, though there are two main ones. Cable internet is provided by your cable television provider and is delivered through the same coax cable that provides channels. A modem is used to seperate internet signals from others and an ethernet cable can later be installed into the modem for high-bandwith, always on connection from the modem to an end-device. DSL, or digital subscriber line, is ran through your phone service provider. The internet is provided to you via a telephone line that is split into three seperate channels, one for voice calls, one for downloading data at high speeds, and another for sending or uploading information. The latter of which is often slower than the downloading channel though the speed of the signal in its entirity depends on the strength of the phone line and distance from the main office sending you the internet signal.
+other types include cellular, similar to DSL though your cell service provider gives you access to the internet wirelessly, satellite features a dish that needs to be pointed at a cell tower that feeds internet signals into your at home modem, difficult or impossible to use in wooded areas, and Dial-up internet, the phone line must be used to call the ISPs access number, which then allows for a low bandwith connection to the internet.
