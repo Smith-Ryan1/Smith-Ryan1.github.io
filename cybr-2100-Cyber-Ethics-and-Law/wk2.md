@@ -4,7 +4,7 @@ Data minimization is similar to purpose limitation in that, you are stating what
 Proportionality is having the proper scope of monitoring for the proper risk associated to the data. You arn't going to comb through childrens laptops and tablets for terrorist threats, though you might minimize data collection to keep their identification secure.
 [cybr-2100-monitoring-and-retention-clause-SmithRyan.pdf](https://github.com/user-attachments/files/22031642/cybr-2100-monitoring-and-retention-clause-SmithRyan.pdf)
 
-I more or less skirted around most of the consent in favor of thoroughly explaining exactly what was being taken and why. I believe that this is indicitive of the Duty/Care from ACM 1.6. By caring for the human mind of "I do not wish to read this" and duty in ensuring that the information is properly displayed in order to avoid any negetive side effects.
+I more or less skirted around most of the consent in favor of thoroughly explaining exactly what was being taken and why. I believe that this is indicitive of the Duty/Care from ACM 1.6. By caring for the human mind of "I do not wish to read this" and duty in ensuring that the information is properly displayed in order to avoid any negetive side effects. I believe that this would have a positive impact on stakeholders as those that do read it would get more clarification. I can only see a net gain, except if people read less due to the link.
 [Cybr2100-Ethics-and-Law-SmithRyan-Wk2-reflection.pdf](https://github.com/user-attachments/files/22031648/Cybr2100-Ethics-and-Law-SmithRyan-Wk2-reflection.pdf)
 
 If I were to change anything about my Monitoring clause I would likely add a more detailed addmendum for consent as well as further fleshing out the scope of the retention length and policy.
