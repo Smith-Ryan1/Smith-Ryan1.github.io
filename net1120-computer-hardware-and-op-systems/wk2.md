@@ -1,1 +1,6 @@
+The first time I ever worked on a computer, I was around twelve years old. I did not know a thing compared to what I know now. If I had known now what I did then, I might have a much better laptop than I do now, as I would have upgraded my old one instead of buying new. Alas, I did not. I also did not know proper safety measures that should be taken place before you work on things, so my old computer is likely for the birds by this point.
+
+A bit of an aside to my adolescent self working on computers, I never knew prior to this class that there was such a difference between laptop RAM and desktop RAM, I figured they were all the same. This might be why, when I purchased over forty dollars of three different RAM sticks, none of them fit into my Laptop. Que sera of course, as now when I do obtain a desktop computer I won’t need to buy RAM.
+
+I feel like this connects tightly, as if I had never learned anything, taken this class, or failed at all, I would be horrific at trying to fix computers forever. As GI Joe once said, “Knowing is half the battle” and I now know more than I ever thought I would about computers. I hope to one day very soon apply this knowledge to a place of business, that way, should a computer ever unfortunately get broken and need fixing, I would know how to help. 
 
