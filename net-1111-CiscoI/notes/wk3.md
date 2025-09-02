@@ -14,3 +14,7 @@
 
 ### T568A and T568B differences.
 There are two types of Ethernet cable, T568A and T568B. The only difference between the two standards are that the green wires in T568A connect to pins 1 and 2 and the orange connects to pins 3 and 6 whereas in T568B the orange cable connects to pins 1 and 2 and the green wire connects to pins 3 and 6. While more or less the same from a technical standpoint, they are not interchangable. If you use T568A in your home system you must continue to use that T568A for expansion and making a new network. 
+
+### Encoding and framing
+Encoding ensures that the bits are transmitted properly, how the bits are managed.
+Framing is the process of how the reciever of these bits recieves the packet. When one begins and where it ends. 
