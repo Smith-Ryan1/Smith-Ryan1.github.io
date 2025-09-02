@@ -18,3 +18,36 @@ There are two types of Ethernet cable, T568A and T568B. The only difference betw
 ### Encoding and framing
 Encoding ensures that the bits are transmitted properly, how the bits are managed.
 Framing is the process of how the reciever of these bits recieves the packet. When one begins and where it ends. 
+
+### Module 5: Communication
+
+|Protocol of message| Its use|
+|---|---|
+|Message format| What format is the message in? Formats depend on the channel and the method used to send the message.|
+|Message size| Character size can determine if long messages can be sent, or if they should be broken up into smaller segments. Character limit is often determined by the channel.|
+|Timing| Timing is how fast a host or reciever can transmit bits. The faster the speed, the more information can be sent.|
+|Encoding| messages are sent in bits, bits are converted into electrical impulses, sound waves, or light signals, that can then be converted back into words.|
+|encapsulation| encapsulation is the process of including a header that identifies source and reciever information, elsewise the message cannot be sent.|
+|message pattern| some messages require acknowledgement when it is recieved before further communication can commence. Some do not.|
+
+Internet standards are a set of rules put in place to determine how something should be done. Internet standards can be ammended in a numbered document called a Request for comments. These are then passed to the Internet Engineering task force though other organizations such as the IEEE and IETF also exist and have their own policies in place.
+
+## Network Communication models
+Two main models exist for Network Communication, OSI and TCP/IP. 
+
+TCP/IP is the first internet model made in the early 1970's and is as follows.
+|TCP/IP Model Layer|Discription|
+|----|----|
+|Application| represents data to the user, also functions as encoding and dialog control.|
+|Transport| Supports communication between numerous devices across diverse networks|
+|Internet| determines the best path through the network|
+|Network access| controls the hardware devices and media that make up the network|
+
+|OSI Model Layer|Description|
+|7- Application| Protocols for process-to-process communication.|
+|6- Presentation| common representation of data between layers.|
+|5- session| helps the presentation layer organize dialog and manage data exchange|
+|4- Transport| Segments, transfers and reassembles data for communication between end devices|
+|3- Network| exchanges individual pieces of data over the network between end devices.|
+|2- data link| exchanges data between devices over a common media|
+|1- physical| mechanical, functional, proceedural, and electrical activate, maintain, and de-activate pyshcial connections for a bit transmission to and from a network device.|
