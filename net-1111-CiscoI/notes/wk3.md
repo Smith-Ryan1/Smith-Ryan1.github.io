@@ -44,6 +44,7 @@ TCP/IP is the first internet model made in the early 1970's and is as follows.
 |Network access| controls the hardware devices and media that make up the network|
 
 |OSI Model Layer|Description|
+|-----|------|
 |7- Application| Protocols for process-to-process communication.|
 |6- Presentation| common representation of data between layers.|
 |5- session| helps the presentation layer organize dialog and manage data exchange|
