@@ -1,6 +1,10 @@
 ### Ethernet framing Wikipedia
 <img width="987" height="427" alt="Screenshot 2025-09-02 114952" src="https://github.com/user-attachments/assets/74c304be-9581-4432-85af-dba3936c2233" />
 
+<img width="970" height="522" alt="Screenshot 2025-09-02 115009" src="https://github.com/user-attachments/assets/2d38374a-f4dc-430f-81fc-3c647eed2ae9" />
+
+
+
 |Type of ethernet|Purpose|
 |------|-----|
 |Ethernet II| The Two Octet ethertype field in the ethernet frame preceeded by a destination and a mac address, "Most notably, an EtherType value of 0x0800 indicates that the frame contains an IPv4 datagram, 0x0806 indicates an ARP datagram, and 0x86DD indicates an IPv6 datagram"|
