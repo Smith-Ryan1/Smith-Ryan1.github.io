@@ -52,3 +52,8 @@ TCP/IP is the first internet model made in the early 1970's and is as follows.
 |3- Network| exchanges individual pieces of data over the network between end devices.|
 |2- data link| exchanges data between devices over a common media|
 |1- physical| mechanical, functional, proceedural, and electrical activate, maintain, and de-activate pyshcial connections for a bit transmission to and from a network device.|
+
+### Module 6 network media
+There are three basic types of cable: metal wire within cable, data is stored as electrical impulses; glass or plastic wire within cables, data is encoded in flashes of light; wireless transmission, data is transmitted through encoded electromagnetic waves.
+
+There are three main types of network cables as well: Twisted pair cables, the wires are used in ethernet cables and each pair of wire is twisted togeather, more often than not, one colored wire to one white wire; coaxial cables, features one strong copper core, followed by a insulated middle, and a protective jacket, these were most often used by television companies; fiber optic cable, has a glass or plastic middle that transmits data over light instead of electricity, allowing for faster data transfer speeds. 
