@@ -24,3 +24,17 @@ Man in the Mobile is another form of an on-path attack. These attacks capture us
 SEO (search engine optimizing) posioning is when malicious sites are better optimized to be pushed higher on webpage browsers like google by using key words often searched.
 
 Wifi passwords cracking can be done by brute force attacks, shoulder surfing, or social engineering to gain access to a private network so hackers can impliment malicious software more easilly. 
+
+Specter and Meltdown attacks have been targeting systems since 1995 that affects every CPUs made there after. Meltdown can read all data in the system, where specter can read data handled by applications. 
+
+Synful knock vulnerability allowed hackers to access legacy Cisco Routers by implimenting a faulty IOS that was not verified. So always verify the integrity of files. 
+
+|Software Vulnerabilities| What it does|
+|------|-------|
+|Buffer overflow| Gives the system a massive amount of data to make the system crash, or provide escalation of privilages.|
+|Non-validated input| gives the system incorrect data sizes to trick it to accept false and malicious data.|
+|Race conditions| makes timed events happen at incorrect times, thus not triggering them correctly.|
+|Unsecure security practices| Having bad authorization, authentication, or encryption|
+|Access control problems| Giving people access that should not have access, not removing access after people have lost privilages|
+
+Always update your software. 
