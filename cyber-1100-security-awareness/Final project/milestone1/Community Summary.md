@@ -1,0 +1,3 @@
+I have decided upon this particular subject due to my friend and future roommates desire to have a home completely connected to the internet via different Internet of Things devices. Ultimately, I do not mind smart devices, they do indeed come in handy, however I disbelieve I would want numerous devices that can all connect directly to my home network and by proxy my personal devices.
+
+Security awareness is important to everybody that connects to the internet, unless you do not want your data to be secure, then it is up to the user. Regardless, everyone would rather have their information shared, you wouldn't want random fourty year old men knowing your childrens school for instance. Nor do most people want to be listened in on by their google home. 
