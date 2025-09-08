@@ -25,3 +25,6 @@ Cables:
 Legacy Cables: Serial cable ports have the pins poking out of the port. Parallel ports are intrestingly not a parallelegram but do have holes in them. Game ports were 15 pin ports that allowed the input of a joystick. PS/2 connectors are 6 pin din connectors that look like if the starbucks logo got acupuncture. they were used for connecting a keyboard and mouse, purple for keyboard green for mouse. audio ports are like RCA cables, all sorts of different colors, one pin. 
 
 Visual ports: VGA ports are quickly becoming legacy, but are not. They are blue 15 pin (5x3) ports. DVI ports look like if yahtzee went horrifically wrong. featuring 8x3 square ports. DVI-D ports support digital transmission, DVI-A supports analog, and DVI-I supports both.
+
+
+[Computer_Hardware_Wk3Day1_Lab_SmithRyan.docx](https://github.com/user-attachments/files/22214364/Computer_Hardware_Wk3Day1_Lab_SmithRyan.docx)
