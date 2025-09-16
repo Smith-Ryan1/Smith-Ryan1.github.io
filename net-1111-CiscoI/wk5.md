@@ -1,0 +1,14 @@
+TCP/IP layer
+
+![The thing](https://github.com/user-attachments/assets/14969533-2edb-4b21-8257-5530245f7926)
+
+the application layer deals with making data, typically in HTTP
+
+The data then gets passed to the transfer layer, passing the data through. This can be done in TCP and UDP
+
+The intranetwork segment then creates the packet and adds its header to the existing data packet and the transfer header.
+
+The network access layer encapsulates the header in a header and trailer depending on the network access type and sends the whole packet along its way. 
+
+
+The OSI layer is a bit more detailed, however the TCP/IP layer is the main architechture people use and have been using for fifty years. 
