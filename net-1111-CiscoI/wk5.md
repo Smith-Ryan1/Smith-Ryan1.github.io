@@ -1,4 +1,4 @@
-TCP/IP layer
+# TCP/IP layer
 
 ![The thing](https://github.com/user-attachments/assets/14969533-2edb-4b21-8257-5530245f7926)
 
@@ -12,3 +12,20 @@ The network access layer encapsulates the header in a header and trailer dependi
 
 
 The OSI layer is a bit more detailed, however the TCP/IP layer is the main architechture people use and have been using for fifty years. 
+
+
+# Application: Handles the following functions 
+
+Access by applications to network services
+
+Client/server data access
+
+Name resolution
+
+Dynamic address assignment
+
+Authentication/user logon
+
+Data formatting and translation
+
+# data transfer
