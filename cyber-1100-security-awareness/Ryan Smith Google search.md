@@ -14,3 +14,6 @@ Ryan Smith also made a sports-tech investment fund called Qualtrics.
 there are 340 Ryan Smiths in this country, and this particular Ryan Smith is the most successful person. 
 
 
+Ohio has a law that requires all coal mines to be supplied with "adequate amount of toilet paper"
+
+In Oxford, Ohio spesifically you cannot drive around the city square 100 times in succession. 
