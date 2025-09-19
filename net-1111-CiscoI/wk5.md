@@ -42,11 +42,3 @@ Reservations in a DHCP are used to give a IP address to a spesific MAC address a
 Exclusions remove spesific IP addresses from the pool of addresses that can be given out. such as having a range of numbers from 1 to 10 and removing numbers 4, 7, and 9.
 
 Lease times can be issued to only allow an IP address to stay with a computer for a certain time frame, from a few minutes to an indefinite period of time, thus allowing the IP to be returned to the pool and allowing it to be given to a new device.
-
-
-
-Authentication/user logon
-
-Data formatting and translation
-
-# data transfer
