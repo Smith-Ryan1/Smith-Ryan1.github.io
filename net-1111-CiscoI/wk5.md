@@ -24,6 +24,16 @@ Name resolution
 
 Dynamic address assignment
 
+
+# Lab 1 day 2
+IPv4 addresses are private IP addresses that are reserved for internal networks and not through the internet. 
+
+Subnet masks are used to determine the range of IP addresses in the same subnet.
+
+any subnet outside the range will require a default gateway.
+
+IPv6 addresses that start with fe80 are link-local addresses which has to be self assigned. 
+
 Authentication/user logon
 
 Data formatting and translation
