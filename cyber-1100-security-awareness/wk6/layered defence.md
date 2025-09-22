@@ -1,0 +1,1 @@
+Castle structure: mote is a physical security measure, technical security is similar to walls, admin security is like a gatehouse, layered/overlapping controls are like archers, redundancy is similar to internal
