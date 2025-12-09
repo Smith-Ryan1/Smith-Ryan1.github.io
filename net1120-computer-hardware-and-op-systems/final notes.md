@@ -158,3 +158,6 @@ CIDR notation (/24, /16, etc.) tells you how many bits belong to the network.
 169.254.x.x → APIPA (assigned when DHCP fails)
 
 255.255.255.255 → Broadcast
+
+<img width="1407" height="952" alt="image" src="https://github.com/user-attachments/assets/aa3d84bd-e1bb-4741-957e-4fcc72a4dd31" />
+
