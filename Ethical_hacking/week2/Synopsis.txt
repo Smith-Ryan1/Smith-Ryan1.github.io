@@ -7,3 +7,16 @@ Documents include ROE, Statement of work, different types of NDAs and contracts 
 https://bluegoatcyber.com/blog/what-regulations-require-penetration-testing/
 
 https://deepstrike.io/blog/penetration-testing-for-compliance
+
+
+Personal code of conduct:
+People are humans, computers are machines. do not jeopardize humans.
+Honor confidentiality
+Follow a set path, do not go out of scope
+Complete each task with accuracy
+Truth provides trust
+People are inherently flawed.
+Each issue should be analyzed with a fine tooth comb
+Replicate every issue
+Use alternate methods only as a last resort
+Do not rely on people to give you what you expect them to 
