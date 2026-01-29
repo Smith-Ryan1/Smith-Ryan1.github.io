@@ -1,0 +1,9 @@
+This week we focused on different national and internation laws and different documents used in pen testing. 
+
+These laws include PCI DSS, HIPPA, GDPR, GLB etc. 
+
+Documents include ROE, Statement of work, different types of NDAs and contracts that bind these documents. 
+
+https://bluegoatcyber.com/blog/what-regulations-require-penetration-testing/
+
+https://deepstrike.io/blog/penetration-testing-for-compliance
